@@ -57,4 +57,4 @@ This a is a user-friendly news research tool designed for effortless information
 
 ## Authors
 
-- [@mehwish4610](https://www.github.com/mehwish4610)
+- [@mjnawal](https://www.github.com/mjnawal)
