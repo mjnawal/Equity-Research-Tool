@@ -41,6 +41,11 @@ This a is a user-friendly news research tool designed for effortless information
 
 - Now you are ready to ask questions. Type our question in Question box and hit Enter
 
+![App Screenshot](https://github.com/Mehwish4610/Equity-Research-News-Tool/blob/main/o1.png)
+
+
+![App Screenshot](https://github.com/Mehwish4610/Equity-Research-News-Tool/blob/main/o2.png)
+
 
 ## Project Structure
 
